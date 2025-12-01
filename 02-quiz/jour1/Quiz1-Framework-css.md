@@ -13,7 +13,7 @@ B. À faciliter la mise en page et l’alignement des éléments
 C. À créer des animations  
 D. À gérer les couleurs d’un site  
 
-➡️ **Réponse : B
+➡️ **Réponse :
 
 ---
 
@@ -24,7 +24,7 @@ B. Il fournit des classes ou composants préconstruits
 C. Il traduit le CSS en HTML  
 D. Il supprime le besoin d’apprendre le CSS  
 
-➡️ **Réponse : B
+➡️ **Réponse :
 
 ---
 
@@ -35,7 +35,7 @@ B. Une bibliothèque d’icônes
 C. Un outil pour faire uniquement du mobile  
 D. Un outil CSS pour WordPress  
 
-➡️ **Réponse : A
+➡️ **Réponse :
 
 ---
 
@@ -46,7 +46,7 @@ B. Une fonction qui retourne du JSX
 C. Un hook  
 D. Un style prédéfini  
 
-➡️ **Réponse : B
+➡️ **Réponse :
 
 ---
 
@@ -57,7 +57,7 @@ B. display: block; margin: auto;
 C. display: flex; justify-content: center; align-items: center;
 D. padding: 20px;  
 
-➡️ **Réponse : C
+➡️ **Réponse :
 
 ---
 
@@ -68,7 +68,7 @@ B. Un framework basé sur des composants tout prêts
 C. Un outil de test automatisé  
 D. Une extension de VSCode  
 
-➡️ **Réponse : B
+➡️ **Réponse :
 
 ---
 
@@ -79,7 +79,7 @@ B. app.json
 C. index.html  
 D. main.jsx ou index.jsx
 
-➡️ **Réponse : D
+➡️ **Réponse :
 
 ---
 
@@ -90,7 +90,7 @@ B. Grid gère 2 dimensions (lignes + colonnes), Flex une seule
 C. Grid est plus rapide que Flexbox  
 D. Flexbox fait des animations  
 
-➡️ **Réponse : B
+➡️ **Réponse :
 
 ---
 
@@ -101,7 +101,7 @@ B. `.title + p`
 C. `.item > span`  
 D. `p ~ span`  
 
-➡️ **Réponse : A
+➡️ **Réponse :
 
 ---
 
